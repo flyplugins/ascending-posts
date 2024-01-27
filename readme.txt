@@ -2,11 +2,11 @@
 Contributors: flyplugins
 Donate link: https://flyplugins.com/donate
 Tags: ascending posts,descending posts,order posts ascending,order posts descending
-Requires at least: 4.0
-Tested up to: 6.1.1
+Requires at least: 4.8
+Tested up to: 6.4.2
 Stable tag: 1.6
 License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 This plugin adds a feature to a post category to allow the posts in that particular category to be displayed in ascending or descending order by date.
 
@@ -26,7 +26,7 @@ This will automatically display posts on that category page ascending/descending
 = Check out Fly Plugins =
 For more tools and resources for selling online courses check out:
 
-* [WP Courseware](https://flyplugins.com/wp-courseware/) - The leading learning management system for WordPress. Create and sell online courses with a drag and drop interface. It’s that easy!
+* [WP Courseware](https://flyplugins.com/wp-courseware-wordpress-lms/) - The leading learning management system for WordPress. Create and sell online courses with a drag and drop interface. It’s that easy!
 * [S3 Media Maestro](https://flyplugins.com/s3-media-maestro) - The most secure HTML 5 media player plugin for WordPress with full AWS (Amazon Web Services) S3 and CloudFront integration.
 
 = Follow Fly Plugins =
