@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 This plugin adds a feature to a post category to allow the posts in that particular category to be displayed in ascending or descending order by date.
 
 == Description ==
-[FlyPlugins](https://flyplugins.com) presents Ascending Posts plugin.
+[Fly Plugins](https://flyplugins.com) presents Ascending Posts plugin.
 
 = Do you need to shift the order of your posts to ascending by date opposed to descending? =
 This plugin adds a feature to a post category to allow the posts in that particular category to be displayed in ascending or descending order by date.
