@@ -1,9 +1,9 @@
-=== Ascending Posts by FlyPlugins===
-Contributors: flyplugins
+=== Ascending Posts by Fly Plugins ===
+Contributors: flyplugins, barellano
 Donate link: https://flyplugins.com/donate
-Tags: ascending posts,descending posts,order posts ascending,order posts descending
+Tags: ascending posts,descending posts,order posts
 Requires at least: 4.8
-Tested up to: 6.4.2
+Tested up to: 6.7
 Stable tag: 1.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
